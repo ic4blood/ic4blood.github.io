@@ -17,8 +17,8 @@ ul li::marker {
 }
 
 
-body {
-    color: darkred;
+body, h1 {
+    color: darkred!important;
 }
 .second-column {
     font-size: 50px;
