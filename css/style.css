@@ -1,0 +1,18 @@
+.flex-fill {
+    min-height: 0;
+}
+
+
+body {
+    background-image: url("../img/alt.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+ul li::marker {
+    color: darkred;
+}ul li {
+    color: darkred;
+}
+
